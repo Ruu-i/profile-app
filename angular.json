@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "profileApp1"
+  "defaultProject": "profileApp1",
+  "cli": {
+    "analytics": "9bc8584d-101a-44c3-88ba-822ffce17945"
+  }
 }
